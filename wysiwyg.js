@@ -1,3 +1,11 @@
+// Current Bugs :
+// Need to be more specific with target in the function that focuses input in order for 
+// it to display only original <p> content instead of whatever is clicked.
+
+// Future Functionality Changes:
+// Would like app to only allow one person to be dotted at a time, but for now a toggle is in place
+// to prevent editting wrong bio.
+
 var oldDeadPeople = [{
   title: "Samurai",
   name: "Tomoe Gozen",
@@ -128,6 +136,7 @@ inputGrabber.addEventListener("keydown", function(event) {
 inputGrabber.addEventListener("keyup", function(event) {
   for(var i=0; i < personContainer.children.length; i++){
     var newBio = personContainer.getElementsByTagName("p")[i];
+    // checks if person div has the dotted border 
       if (dotCheck[i].classList.contains("dotted")) {
         newBio.innerHTML = inputGrabber.value;
       };
