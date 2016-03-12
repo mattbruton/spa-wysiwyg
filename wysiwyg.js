@@ -109,6 +109,7 @@ personContainer.addEventListener("click", function(event) {
 
 personContainer.addEventListener("click", function(event) {
   inputGrabber.focus();
+  inputGrabber.value = event.target.innerHTML;
 })
 
 
