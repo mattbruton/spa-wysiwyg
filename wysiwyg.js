@@ -74,7 +74,7 @@ var personContainer = document.getElementById("personContainer");
 var personElement = document.getElementById("person");
 var inputGrabber = document.getElementById("wordsForPeople");
 var bio = document.getElementById("bio");
-var dotCheck = personContainer.getElementsByTagName("div")
+var dotCheck = personContainer.getElementsByTagName("div");
 var wordValue;
 var personBuilder;
 
