@@ -25,6 +25,6 @@
 
 ### Screenshots:
 
-![Screenshot of WYSIWYG](https://raw.githubusercontent.com/mattbruton/spa-wysiwyg/mb-work/Screenshots/WYSIWYG1.png)  
-![Screenshot of WYSIWYG](https://raw.githubusercontent.com/mattbruton/spa-wysiwyg/mb-work/Screenshots/WYSIWYG2.png)  
+![Screenshot of WYSIWYG](https://raw.githubusercontent.com/mattbruton/spa-wysiwyg/master/Screenshots/WYSIWYG1.png)  
+![Screenshot of WYSIWYG](https://raw.githubusercontent.com/mattbruton/spa-wysiwyg/master/Screenshots/WYSIWYG2.png)  
  
